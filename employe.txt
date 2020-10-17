@@ -1,3 +1,5 @@
 name= navenn
 
 location= hyd
+
+skills= java,devops 
